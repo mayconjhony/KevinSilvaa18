@@ -12,7 +12,7 @@
 
 # Sobre mim 💬 :
 
-### - Tenho 19 anos, antigo entusiasta de aprendizado de máquina e inteligência artificial.
+### - Tenho 18 anos, antigo entusiasta de aprendizado de máquina e inteligência artificial.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/KevinSilvaa18/KevinSilvaa18/blob/master/assets/1936.gif">
 
