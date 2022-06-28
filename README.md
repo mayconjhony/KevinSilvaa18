@@ -18,10 +18,8 @@
 
 ### - Aprendendo :
 - ✨ Estruturas de dados e algoritmos
+- ✨ Desenvolvedor de Front-End
 
-### - Hobbies : 
-- ✨ Viciado em jogos
-- ✨ Assisto Animes e séries
 
 </br>
 </br>
